@@ -1,0 +1,19 @@
+Predicate
+Function
+Supplier
+Consumer
+
+(Two Argument)
+---------------
+
+BiPredicate
+BiFunction
+BiConsumer
+
+primitive
+-----------
+
+IntPredicate
+IntConsumer
+IntFunction
+

@@ -1,0 +1,16 @@
+Lambda Expression is an anonymous function.
+Anonymous functions does not have name, return type and no modifiers.
+
+Remove the access modifier, name and return type to convert into lambda.
+
+Functional interface contains SAM(Single Abstract Method).
+Lambda expression is a way to express functional interface.
+
+for return keyword:
+		Without curly braces CANNOT use.
+		Within curly braces MUST use with semicolon.
+		
+		
+Functional Interface: Which contains Single Abstract Method (SAM).
+					  Can contain static and default method.
+		
