@@ -9,7 +9,4 @@ Procedural ---  Write sequential series of execution steps/tasks.
 Functional -- Organize code in functions with clearly defined tasks.
 			  Pass data around via parameters.
 			  
-Lambda Expression
-Functional Interface
-How to use FI to invoke Lambda
-Anonymous vs Lambda
+
